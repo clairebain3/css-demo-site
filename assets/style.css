@@ -1,0 +1,52 @@
+
+
+
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+.header {
+  background-color: blue;
+  color: white;
+text-align: center;
+position: sticky;
+top: 0px;
+width: 100%;
+  
+}
+
+#userform {
+
+    
+  text-align: center;
+  background-color: bisque;
+  align-items: center;
+}
+
+.intro {
+padding: 16px 20px; 
+background-color: yellow;
+color: blueviolet;
+text-align: left;
+
+}
+
+.main_text{
+    margin-top: 60px;
+   
+}
+
+footer {
+
+background-color:goldenrod;
+color:darkblue;
+text-align: center;
+
+
+}
+
+
+
+
+  
